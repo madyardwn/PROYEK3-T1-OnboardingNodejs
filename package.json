@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/madyardwn/ExplorasiNodeJSAchmadya/issues"
   },
-  "homepage": "https://github.com/madyardwn/ExplorasiNodeJSAchmadya#readme"
+  "homepage": "https://github.com/madyardwn/ExplorasiNodeJSAchmadya#readme",
+  "dependencies": {
+    "validator": "^13.7.0"
+  }
 }
